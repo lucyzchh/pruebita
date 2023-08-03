@@ -2,8 +2,5 @@ esto no es una carpeta de pelis jeje
 Cambio en pelis
 Nico te estoy jodiendo todo
 es un archivo de pelis :D 
-<<<<<<< HEAD
 basta, esto funciona mal? a ver si me pueden leer
-=======
 Excelente Bruno!
->>>>>>> 1d79cdde9f3137a31dbde40ca5d7487a44c9795a
